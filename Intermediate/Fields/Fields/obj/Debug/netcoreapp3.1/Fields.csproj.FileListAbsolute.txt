@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache
