@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\bin\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE3 5 unique numbers\ArraysandListsE3 5 unique numbers\obj\Debug\netcoreapp3.1\ArraysandListsE3 5 unique numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+E:\My Documents\GitHub\C#\tuts\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

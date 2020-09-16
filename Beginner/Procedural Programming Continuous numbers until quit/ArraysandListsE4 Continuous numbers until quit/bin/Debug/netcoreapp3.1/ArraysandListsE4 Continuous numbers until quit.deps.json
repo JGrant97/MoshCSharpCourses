@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArraysandListsE4 Continuous numbers until quit/1.0.0": {
+        "runtime": {
+          "ArraysandListsE4 Continuous numbers until quit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysandListsE4 Continuous numbers until quit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

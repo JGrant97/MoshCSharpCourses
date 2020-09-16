@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+E:\My Documents\GitHub\C#\tuts\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

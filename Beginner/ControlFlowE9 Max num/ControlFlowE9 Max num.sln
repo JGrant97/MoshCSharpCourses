@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowE9 Max num", "ControlFlowE9 Max num\ControlFlowE9 Max num.csproj", "{426235A5-4880-47E1-A438-E3DEF341D676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426235A5-4880-47E1-A438-E3DEF341D676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426235A5-4880-47E1-A438-E3DEF341D676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426235A5-4880-47E1-A438-E3DEF341D676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426235A5-4880-47E1-A438-E3DEF341D676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AC74E9-468C-4C6D-959C-93A4B82342E5}
+	EndGlobalSection
+EndGlobal

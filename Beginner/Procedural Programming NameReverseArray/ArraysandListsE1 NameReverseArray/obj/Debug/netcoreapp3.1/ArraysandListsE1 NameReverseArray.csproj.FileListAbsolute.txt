@@ -1,0 +1,26 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\ArraysandListsE2 NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.genruntimeconfig.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\bin\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Procedural Programming NameReverseArray\ArraysandListsE1 NameReverseArray\obj\Debug\netcoreapp3.1\ArraysandListsE1 NameReverseArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\bin\Debug\netcoreapp3.1\Strings2.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Strings2\Strings2\obj\Debug\netcoreapp3.1\Strings2.genruntimeconfig.cache

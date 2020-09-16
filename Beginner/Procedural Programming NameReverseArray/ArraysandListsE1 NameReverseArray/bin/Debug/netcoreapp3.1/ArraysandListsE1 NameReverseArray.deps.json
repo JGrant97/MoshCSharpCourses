@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArraysandListsE1 NameReverseArray/1.0.0": {
+        "runtime": {
+          "ArraysandListsE1 NameReverseArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysandListsE1 NameReverseArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

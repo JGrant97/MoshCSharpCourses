@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+E:\My Documents\GitHub\C#\tuts\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.exe
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.deps.json
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\bin\Debug\netcoreapp3.1\conditionalStatments.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\conditionalStatments\conditionalStatments\obj\Debug\netcoreapp3.1\conditionalStatments.genruntimeconfig.cache

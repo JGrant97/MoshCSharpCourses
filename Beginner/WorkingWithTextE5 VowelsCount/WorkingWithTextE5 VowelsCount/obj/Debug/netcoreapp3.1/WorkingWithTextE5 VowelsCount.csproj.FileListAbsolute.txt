@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\bin\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE5 VowelsCount\WorkingWithTextE5 VowelsCount\obj\Debug\netcoreapp3.1\WorkingWithTextE5 VowelsCount.genruntimeconfig.cache

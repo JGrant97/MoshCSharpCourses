@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\bin\Debug\netcoreapp3.1\Date.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Date\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache

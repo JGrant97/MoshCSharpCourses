@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\bin\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.genruntimeconfig.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE2 Duplicate numbers\WorkingWithTextE2 Duplicate numbers\obj\Debug\netcoreapp3.1\WorkingWithTextE2 Duplicate numbers.csprojAssemblyReference.cache

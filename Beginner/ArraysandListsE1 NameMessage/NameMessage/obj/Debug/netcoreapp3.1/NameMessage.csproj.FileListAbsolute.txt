@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\bin\Debug\netcoreapp3.1\NameMessage.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\NameMessage\NameMessage\obj\Debug\netcoreapp3.1\NameMessage.genruntimeconfig.cache

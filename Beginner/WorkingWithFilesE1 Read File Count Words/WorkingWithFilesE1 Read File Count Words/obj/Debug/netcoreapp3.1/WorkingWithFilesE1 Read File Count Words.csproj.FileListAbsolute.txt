@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\bin\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithFilesE1 Read File Count Words\WorkingWithFilesE1 Read File Count Words\obj\Debug\netcoreapp3.1\WorkingWithFilesE1 Read File Count Words.genruntimeconfig.cache

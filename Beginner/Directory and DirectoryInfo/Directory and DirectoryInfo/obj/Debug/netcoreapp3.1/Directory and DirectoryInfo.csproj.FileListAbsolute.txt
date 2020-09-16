@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\netcoreapp3.1\Directory and DirectoryInfo.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\netcoreapp3.1\Directory and DirectoryInfo.genruntimeconfig.cache

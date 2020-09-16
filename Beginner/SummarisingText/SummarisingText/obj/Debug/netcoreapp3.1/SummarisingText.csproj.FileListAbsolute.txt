@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\bin\Debug\netcoreapp3.1\SummarisingText.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\SummarisingText\SummarisingText\obj\Debug\netcoreapp3.1\SummarisingText.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.exe
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.deps.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\bin\Debug\netcoreapp3.1\ControlFlowE9 Max num.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\ControlFlowE9 Max num\ControlFlowE9 Max num\obj\Debug\netcoreapp3.1\ControlFlowE9 Max num.genruntimeconfig.cache

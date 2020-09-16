@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.exe
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.deps.json
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.runtimeconfig.json
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.dll
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\bin\Debug\netcoreapp3.1\c_sharp_tuts.pdb
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.dll
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.pdb
+E:\My Documents\GitHub\C#\c_sharp_tuts\c_sharp_tuts\obj\Debug\netcoreapp3.1\c_sharp_tuts.genruntimeconfig.cache

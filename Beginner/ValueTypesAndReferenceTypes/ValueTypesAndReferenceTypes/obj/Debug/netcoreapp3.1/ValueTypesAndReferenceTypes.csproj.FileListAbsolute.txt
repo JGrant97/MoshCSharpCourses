@@ -1,0 +1,13 @@
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.exe
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.deps.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.runtimeconfig.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.runtimeconfig.dev.json
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.csprojAssemblyReference.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.AssemblyInfoInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.AssemblyInfo.cs
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.csproj.CoreCompileInputs.cache
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.dll
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.pdb
+E:\My Documents\GitHub\C#\tuts\Beginner\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueTypesAndReferenceTypes.genruntimeconfig.cache

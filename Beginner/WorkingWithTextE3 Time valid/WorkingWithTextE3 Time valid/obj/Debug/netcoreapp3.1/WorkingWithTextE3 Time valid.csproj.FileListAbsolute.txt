@@ -1,0 +1,26 @@
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.csprojAssemblyReference.cache
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.AssemblyInfoInputs.cache
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.AssemblyInfo.cs
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.csproj.CoreCompileInputs.cache
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.exe
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.deps.json
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.runtimeconfig.json
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.runtimeconfig.dev.json
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.dll
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.pdb
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.dll
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.pdb
+C:\Users\jackg\source\repos\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.genruntimeconfig.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.exe
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.deps.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\bin\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.dll
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.pdb
+D:\My Documents\GitHub\C#\tuts\Beginner\WorkingWithTextE3 Time valid\WorkingWithTextE3 Time valid\obj\Debug\netcoreapp3.1\WorkingWithTextE3 Time valid.genruntimeconfig.cache

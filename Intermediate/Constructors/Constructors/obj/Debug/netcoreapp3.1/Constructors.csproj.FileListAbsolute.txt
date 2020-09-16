@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+D:\My Documents\GitHub\C#\tuts\Intermediate\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
