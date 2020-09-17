@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
