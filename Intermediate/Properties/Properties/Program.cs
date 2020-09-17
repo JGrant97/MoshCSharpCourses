@@ -2,14 +2,12 @@
 
 namespace Properties
 {
-    public class Person
-    {
-        public DateTime Birthdate { get; set; }
-    }
     class Program
     {
         static void Main(string[] args)
         {
+            var person = new Person(new DateTime(1997, 05, 15));
+            Console.WriteLine(person.age);
         }
     }
 }
