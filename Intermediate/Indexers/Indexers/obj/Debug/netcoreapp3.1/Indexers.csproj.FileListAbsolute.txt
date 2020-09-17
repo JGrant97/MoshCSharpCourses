@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
