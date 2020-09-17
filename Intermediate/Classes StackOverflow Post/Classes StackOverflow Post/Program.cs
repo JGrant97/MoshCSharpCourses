@@ -10,6 +10,7 @@ namespace Classes_StackOverflow_Post
             post.Title = "Hello World";
             post.Desc = "This is my first post";
             post.PostedDate = DateTime.Now;
+
             while(true)
             {
                 Console.WriteLine("\nTitle: " + post.Title + "\nDescription: " + post.Desc + "\n" + "Total votes: " + post.TotalVotes +
