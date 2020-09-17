@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes\\Classes\\Classes.csproj": {}
+    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes StackOverflow Post\\Classes StackOverflow Post\\Classes StackOverflow Post.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes\\Classes\\Classes.csproj": {
+    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes StackOverflow Post\\Classes StackOverflow Post\\Classes StackOverflow Post.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes\\Classes\\Classes.csproj",
-        "projectName": "Classes",
-        "projectPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes\\Classes\\Classes.csproj",
+        "projectUniqueName": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes StackOverflow Post\\Classes StackOverflow Post\\Classes StackOverflow Post.csproj",
+        "projectName": "Classes StackOverflow Post",
+        "projectPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes StackOverflow Post\\Classes StackOverflow Post\\Classes StackOverflow Post.csproj",
         "packagesPath": "C:\\Users\\jackg\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes\\Classes\\obj\\",
+        "outputPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Intermediate\\Classes StackOverflow Post\\Classes StackOverflow Post\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackg\\AppData\\Roaming\\NuGet\\NuGet.Config",

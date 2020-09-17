@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\bin\Debug\netcoreapp3.1\Classes StackOverflow Post.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes StackOverflow Post\Classes StackOverflow Post\obj\Debug\netcoreapp3.1\Classes StackOverflow Post.genruntimeconfig.cache
