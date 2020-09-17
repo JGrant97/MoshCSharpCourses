@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
