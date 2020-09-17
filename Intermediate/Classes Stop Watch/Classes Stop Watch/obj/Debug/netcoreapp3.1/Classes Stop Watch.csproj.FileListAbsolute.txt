@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\bin\Debug\netcoreapp3.1\Classes Stop Watch.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Classes Stop Watch\Classes Stop Watch\obj\Debug\netcoreapp3.1\Classes Stop Watch.genruntimeconfig.cache

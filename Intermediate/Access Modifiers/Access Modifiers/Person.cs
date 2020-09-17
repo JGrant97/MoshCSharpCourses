@@ -4,7 +4,7 @@ namespace Access_Modifiers
 {
     public class Person
     {
-        private DateTime _birthDate;
+        private DateTime _birthDate = new DateTime();
 
         public void SetBirthdate(DateTime birthdate)
         {
