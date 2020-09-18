@@ -1,0 +1,19 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\App.g.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example_MarkupCompile.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example_MarkupCompile.lref
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\bin\Debug\netcoreapp3.1\Upcasting and DownCasting example.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.g.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and DownCasting example\Upcasting and DownCasting example\obj\Debug\netcoreapp3.1\Upcasting and DownCasting example.genruntimeconfig.cache

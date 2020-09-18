@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\netcoreapp3.1\Upcasting and Downcasting.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\netcoreapp3.1\Upcasting and Downcasting.genruntimeconfig.cache

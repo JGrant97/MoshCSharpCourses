@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Upcasting and DownCasting example/1.0.0": {
+        "runtime": {
+          "Upcasting and DownCasting example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upcasting and DownCasting example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
