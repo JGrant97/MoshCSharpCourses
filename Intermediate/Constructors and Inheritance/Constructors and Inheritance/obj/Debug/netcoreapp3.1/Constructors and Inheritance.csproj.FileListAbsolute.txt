@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\bin\Debug\netcoreapp3.1\Constructors and Inheritance.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Constructors and Inheritance\Constructors and Inheritance\obj\Debug\netcoreapp3.1\Constructors and Inheritance.genruntimeconfig.cache
