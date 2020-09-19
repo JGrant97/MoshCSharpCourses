@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\bin\Debug\netcoreapp3.1\Inheritance E1 Stack.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Inheritance E1 Stack\Inheritance E1 Stack\obj\Debug\netcoreapp3.1\Inheritance E1 Stack.genruntimeconfig.cache
