@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\bin\Debug\netcoreapp3.1\Abstract classes and members.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Abstract classes and members\Abstract classes and members\obj\Debug\netcoreapp3.1\Abstract classes and members.genruntimeconfig.cache
