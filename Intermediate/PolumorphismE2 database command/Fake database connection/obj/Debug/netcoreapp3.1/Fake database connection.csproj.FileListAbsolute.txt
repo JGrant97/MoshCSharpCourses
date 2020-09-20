@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\bin\Debug\netcoreapp3.1\Fake database connection.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Fake database connection\Fake database connection\obj\Debug\netcoreapp3.1\Fake database connection.genruntimeconfig.cache
