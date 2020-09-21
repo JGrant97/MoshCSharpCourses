@@ -1,0 +1,99 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interfaces and Testability.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interface and Testability tests.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interface and Testability tests.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interface and Testability tests.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interface and Testability tests.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interface and Testability tests.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interfaces and Testability.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\bin\Debug\netcoreapp3.1\Interfaces and Testability.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.csproj.CopyComplete
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interface and Testability tests\obj\Debug\netcoreapp3.1\Interface and Testability tests.genruntimeconfig.cache

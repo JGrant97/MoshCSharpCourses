@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\bin\Debug\netcoreapp3.1\Interfaces and Testability.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Testability\Interfaces and Testability\obj\Debug\netcoreapp3.1\Interfaces and Testability.genruntimeconfig.cache

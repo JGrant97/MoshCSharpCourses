@@ -30,6 +30,7 @@ namespace Fake_database_connection
         public override void Close()
         {
         }
+
         public void Execute()
         {
             Console.WriteLine("\n");
