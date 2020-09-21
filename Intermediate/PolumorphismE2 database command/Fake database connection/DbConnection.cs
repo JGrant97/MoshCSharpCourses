@@ -7,19 +7,19 @@ namespace Fake_database_connection
         private string _connectionString { get; set; }
         private TimeSpan _timeout { get; set; }
 
-        public DbConnection(string connection, TimeSpan timeoout)
+        public DbConnection(string connection, TimeSpan timeout)
         {
             if (string.IsNullOrWhiteSpace(connection))
             {
                 throw new ArgumentNullException("Connection string");
             }
-            else if(timeoout.TotalSeconds <= 0)
+            else if(timeout.TotalSeconds <= 0)
             {
                 throw new TimeoutException("Database connectiont timed out");
             }
 
             _connectionString = connection;
-            _timeout = timeoout;
+            _timeout = timeout;
         }
 
         public abstract void Open();

@@ -7,13 +7,12 @@ namespace Fake_database_connection
         static void Main(string[] args)
         {
             var sqlConnection = new SqlConnection("www.mySQLdbconnection.com");
-            sqlConnection.Open();
-            sqlConnection.Close();
+            var sqlDbCommand = new DbCommand(sqlConnection, "SELECT * FROM TABLE X");
+            sqlDbCommand.Execute();
 
             var oracleConnection = new OracleConnection("www.myOracledbconnection.com");
-            oracleConnection.Open();
-            oracleConnection.Close();
-
+            var oracleDbCommand = new DbCommand(oracleConnection, "SELECT * FROM TABLE Y");
+            oracleDbCommand.Execute();
         }
     }
 }
