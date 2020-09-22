@@ -6,12 +6,14 @@ namespace InterfacesE1_workflow_engine
     {
         static void Main(string[] args)
         {
-            var workflowEngine = new WorkFlowEngine();
-            workflowEngine.Execute(new UploadVideo());
-            workflowEngine.Execute(new Encoding());
-            workflowEngine.Execute(new Processing());
-            workflowEngine.Execute(new DatabaseChangeStatus());
-            workflowEngine.Run(new Video());
+            var workflow = new Workflow();
+            workflow.Add(new UploadVideo());
+            workflow.Add(new Encoding());
+            workflow.Add(new Processing());
+            workflow.Add(new DatabaseChangeStatus());
+
+            var engine = new WorkFlowEngine();
+            engine.Run(workflow);
         }
     }
 }

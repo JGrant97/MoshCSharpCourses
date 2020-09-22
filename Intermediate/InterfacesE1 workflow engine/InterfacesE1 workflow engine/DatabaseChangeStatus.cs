@@ -6,7 +6,7 @@ namespace InterfacesE1_workflow_engine
 {
     class DatabaseChangeStatus : IActivities
     {
-        public void Execute(Message message)
+        public void Execute()
         {
             Console.WriteLine("Database has changed video status to processing");
         }

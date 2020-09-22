@@ -6,7 +6,7 @@ namespace InterfacesE1_workflow_engine
 {
     class Processing : IActivities
     {
-        public void Execute(Message message)
+        public void Execute()
         {
             Console.WriteLine("Your video has started processing");
         }

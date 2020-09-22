@@ -6,26 +6,22 @@ namespace InterfacesE1_workflow_engine
 {
     class WorkFlowEngine
     {
-        private readonly IList<IActivities> _activities;
-
-        public WorkFlowEngine()
+        public void Run(IWorkflow workflow)
         {
-            _activities = new List<IActivities>();
-        }
-
-
-        public void Run(Video video)
-        {
-            foreach (var activity in _activities)
+            foreach (var activity in workflow.GetTasks())
             {
-                activity.Execute(new Message());
+                try
+                {
+                    activity.Execute();
+
+                }
+                catch (Exception)
+                {
+                    //logging
+                    //Terminate
+                    throw;
+                }
             }
-        }
-
-        public void Execute(IActivities workflow)
-        {
-            _activities.Add(workflow);
-
         }
     }
 }

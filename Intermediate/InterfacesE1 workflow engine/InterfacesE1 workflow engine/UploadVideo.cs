@@ -6,7 +6,7 @@ namespace InterfacesE1_workflow_engine
 {
     class UploadVideo : IActivities
     {
-        public void Execute(Message message)
+        public void Execute()
         {
             Console.WriteLine("Uploading video to the cloud...");
         }
