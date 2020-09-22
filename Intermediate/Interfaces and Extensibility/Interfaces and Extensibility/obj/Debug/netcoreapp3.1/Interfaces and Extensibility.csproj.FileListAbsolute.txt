@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\bin\Debug\netcoreapp3.1\Interfaces and Extensibility.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces and Extensibility\Interfaces and Extensibility\obj\Debug\netcoreapp3.1\Interfaces and Extensibility.genruntimeconfig.cache
