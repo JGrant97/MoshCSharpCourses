@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\bin\Debug\netcoreapp3.1\InterfacesE1 workflow engine.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\InterfacesE1 workflow engine\InterfacesE1 workflow engine\obj\Debug\netcoreapp3.1\InterfacesE1 workflow engine.genruntimeconfig.cache

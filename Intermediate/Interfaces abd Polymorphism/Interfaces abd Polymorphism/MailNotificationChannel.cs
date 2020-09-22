@@ -1,10 +1,12 @@
-﻿namespace Interfaces_and_Polymorphism
+﻿using System;
+
+namespace Interfaces_and_Polymorphism
 {
     public class MailNotificationChannel : INotificationChannel
     {
         public void Send(Message message)
         {
-            System.Console.WriteLine("Sending mail..");
+            Console.WriteLine("Sending mail..");
         }
     }
 }
