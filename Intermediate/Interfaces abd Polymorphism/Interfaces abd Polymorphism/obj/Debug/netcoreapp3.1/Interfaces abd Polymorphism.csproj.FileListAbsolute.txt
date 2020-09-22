@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\bin\Debug\netcoreapp3.1\Interfaces abd Polymorphism.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Intermediate\Interfaces abd Polymorphism\Interfaces abd Polymorphism\obj\Debug\netcoreapp3.1\Interfaces abd Polymorphism.genruntimeconfig.cache
