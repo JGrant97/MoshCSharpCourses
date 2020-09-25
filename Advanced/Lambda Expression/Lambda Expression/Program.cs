@@ -16,7 +16,7 @@ namespace Lambda_Expression
             Console.WriteLine(square(5));
 
             var books = new BookRepository().GetBooks();
-            var cheapBooks = books.FindAll(book => book.Price <10);
+            var cheapBooks = books.FindAll(b => b.Price <10);
 
             foreach (var book in cheapBooks)
             {
