@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\ArraysandListsE2 NameReverseArray\\ArraysandListsE1 NameReverseArray\\ArraysandListsE1 NameReverseArray.csproj",
-      "projectName": "ArraysandListsE1 NameReverseArray",
-      "projectPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\ArraysandListsE2 NameReverseArray\\ArraysandListsE1 NameReverseArray\\ArraysandListsE1 NameReverseArray.csproj",
+      "projectUniqueName": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Advanced\\Delegates\\Delegates\\Delegates.csproj",
+      "projectName": "Delegates",
+      "projectPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Advanced\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\jackg\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\ArraysandListsE2 NameReverseArray\\ArraysandListsE1 NameReverseArray\\obj\\",
+      "outputPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Advanced\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jackg\\AppData\\Roaming\\NuGet\\NuGet.Config",

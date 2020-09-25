@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
