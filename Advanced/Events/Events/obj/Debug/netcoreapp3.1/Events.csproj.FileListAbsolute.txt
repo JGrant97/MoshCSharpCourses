@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\bin\Debug\netcoreapp3.1\Events.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Events\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
