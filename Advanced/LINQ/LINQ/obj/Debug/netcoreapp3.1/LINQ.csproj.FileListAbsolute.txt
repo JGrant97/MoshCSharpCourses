@@ -1,0 +1,13 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache
