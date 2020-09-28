@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fbXXgBI2aO55NxRU4FVWihiC4/geTeEK6GkHhRI2fUFJQl6lrlYfN1kCnMSYqQq6rJyghP2WPtuMPmn+3dhoGg==",
+  "dgSpecHash": "YIh9sps2jRvCXu5gFr3wg6mDL/Tk99ODdRBobviwM0mekxI1rrFqN8qgfxbdbHMh4i8dm2vpm2a02UurjSBjsQ==",
   "success": true,
   "projectFilePath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Advanced\\Lambda Expression\\Lambda Expression\\Lambda Expression.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jackg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

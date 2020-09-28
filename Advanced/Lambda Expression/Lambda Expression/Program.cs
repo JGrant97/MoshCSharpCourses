@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json.Serialization;
+using System;
 
 namespace Lambda_Expression
 {
@@ -17,6 +18,11 @@ namespace Lambda_Expression
 
             var books = new BookRepository().GetBooks();
             var cheapBooks = books.FindAll(b => b.Price <10);
+
+            int a = 1;
+            int b = 2;
+
+            Func add = (a,b) => a + b; 
 
             foreach (var book in cheapBooks)
             {

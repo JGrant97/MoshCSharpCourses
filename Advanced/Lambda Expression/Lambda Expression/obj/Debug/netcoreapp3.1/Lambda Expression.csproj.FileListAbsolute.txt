@@ -7,7 +7,6 @@ D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Ex
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csprojAssemblyReference.cache
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfoInputs.cache
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfo.cs
-D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csproj.CoreCompileInputs.cache
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.dll
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.pdb
 D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.genruntimeconfig.cache
