@@ -1,0 +1,19 @@
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.exe
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.deps.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.runtimeconfig.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.runtimeconfig.dev.json
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\bin\Debug\netcoreapp3.1\Asynchronous programming.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\App.g.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming_MarkupCompile.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming_MarkupCompile.lref
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.g.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.AssemblyInfo.cs
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.pdb
+D:\My Documents\GitHub\C#\MoshCSharpCourses\Advanced\Asynchronous programming\Asynchronous programming\obj\Debug\netcoreapp3.1\Asynchronous programming.genruntimeconfig.cache
