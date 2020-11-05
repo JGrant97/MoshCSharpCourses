@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Documents\\GitHub\\C#\\tuts\\Arrays\\Arrays\\Arrays.csproj": {}
+    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\Arrays\\SingleDimensionArrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "E:\\My Documents\\GitHub\\C#\\tuts\\Arrays\\Arrays\\Arrays.csproj": {
+    "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\Arrays\\SingleDimensionArrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Documents\\GitHub\\C#\\tuts\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\Arrays\\SingleDimensionArrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "E:\\My Documents\\GitHub\\C#\\tuts\\Arrays\\Arrays\\Arrays.csproj",
+        "projectPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\Arrays\\SingleDimensionArrays\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\jackg\\.nuget\\packages\\",
-        "outputPath": "E:\\My Documents\\GitHub\\C#\\tuts\\Arrays\\Arrays\\obj\\",
+        "outputPath": "D:\\My Documents\\GitHub\\C#\\MoshCSharpCourses\\Beginner\\Arrays\\SingleDimensionArrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
