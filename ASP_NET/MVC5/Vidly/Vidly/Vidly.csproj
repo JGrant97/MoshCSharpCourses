@@ -168,18 +168,69 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MoviesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202011092034256_InitialModel.cs" />
+    <Compile Include="Migrations\202011092034256_InitialModel.Designer.cs">
+      <DependentUpon>202011092034256_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092046054_addIsSubToCust.cs" />
+    <Compile Include="Migrations\202011092046054_addIsSubToCust.Designer.cs">
+      <DependentUpon>202011092046054_addIsSubToCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092050313_AddMembershipType.cs" />
+    <Compile Include="Migrations\202011092050313_AddMembershipType.Designer.cs">
+      <DependentUpon>202011092050313_AddMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092052097_populateMembershipTypes.cs" />
+    <Compile Include="Migrations\202011092052097_populateMembershipTypes.Designer.cs">
+      <DependentUpon>202011092052097_populateMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092144218_ApplyAnnotationsToCustomerName.cs" />
+    <Compile Include="Migrations\202011092144218_ApplyAnnotationsToCustomerName.Designer.cs">
+      <DependentUpon>202011092144218_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092201418_AddNameToMemberShipType.cs" />
+    <Compile Include="Migrations\202011092201418_AddNameToMemberShipType.Designer.cs">
+      <DependentUpon>202011092201418_AddNameToMemberShipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092313421_AddDOBToCustomer.cs" />
+    <Compile Include="Migrations\202011092313421_AddDOBToCustomer.Designer.cs">
+      <DependentUpon>202011092313421_AddDOBToCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011092322448_nullableDateTime.cs" />
+    <Compile Include="Migrations\202011092322448_nullableDateTime.Designer.cs">
+      <DependentUpon>202011092322448_nullableDateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011100029265_AddMoviesList.cs" />
+    <Compile Include="Migrations\202011100029265_AddMoviesList.Designer.cs">
+      <DependentUpon>202011100029265_AddMoviesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011100031250_FixMovieTypo.cs" />
+    <Compile Include="Migrations\202011100031250_FixMovieTypo.Designer.cs">
+      <DependentUpon>202011100031250_FixMovieTypo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011100049067_FixMovies2.cs" />
+    <Compile Include="Migrations\202011100049067_FixMovies2.Designer.cs">
+      <DependentUpon>202011100049067_FixMovies2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
+    <Compile Include="Models\MovieGenres.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\RandomMovieViewModel.cs" />
+    <Compile Include="ViewModels\ViewCustomersViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-lumen.css" />
@@ -239,6 +290,11 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Movies\Random.cshtml" />
+    <Content Include="Views\Shared\_NavBar.cshtml" />
+    <Content Include="Views\Movies\Index.cshtml" />
+    <Content Include="Views\Customers\Index.cshtml" />
+    <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -255,6 +311,41 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202011092034256_InitialModel.resx">
+      <DependentUpon>202011092034256_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092046054_addIsSubToCust.resx">
+      <DependentUpon>202011092046054_addIsSubToCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092050313_AddMembershipType.resx">
+      <DependentUpon>202011092050313_AddMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092052097_populateMembershipTypes.resx">
+      <DependentUpon>202011092052097_populateMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092144218_ApplyAnnotationsToCustomerName.resx">
+      <DependentUpon>202011092144218_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092201418_AddNameToMemberShipType.resx">
+      <DependentUpon>202011092201418_AddNameToMemberShipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092313421_AddDOBToCustomer.resx">
+      <DependentUpon>202011092313421_AddDOBToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011092322448_nullableDateTime.resx">
+      <DependentUpon>202011092322448_nullableDateTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011100029265_AddMoviesList.resx">
+      <DependentUpon>202011100029265_AddMoviesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011100031250_FixMovieTypo.resx">
+      <DependentUpon>202011100031250_FixMovieTypo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011100049067_FixMovies2.resx">
+      <DependentUpon>202011100049067_FixMovies2.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
