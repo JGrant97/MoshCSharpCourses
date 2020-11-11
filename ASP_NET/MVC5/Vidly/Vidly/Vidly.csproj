@@ -199,25 +199,9 @@
     <Compile Include="Migrations\202011092201418_AddNameToMemberShipType.Designer.cs">
       <DependentUpon>202011092201418_AddNameToMemberShipType.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202011092313421_AddDOBToCustomer.cs" />
-    <Compile Include="Migrations\202011092313421_AddDOBToCustomer.Designer.cs">
-      <DependentUpon>202011092313421_AddDOBToCustomer.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202011092322448_nullableDateTime.cs" />
-    <Compile Include="Migrations\202011092322448_nullableDateTime.Designer.cs">
-      <DependentUpon>202011092322448_nullableDateTime.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202011100029265_AddMoviesList.cs" />
-    <Compile Include="Migrations\202011100029265_AddMoviesList.Designer.cs">
-      <DependentUpon>202011100029265_AddMoviesList.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202011100031250_FixMovieTypo.cs" />
-    <Compile Include="Migrations\202011100031250_FixMovieTypo.Designer.cs">
-      <DependentUpon>202011100031250_FixMovieTypo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202011100049067_FixMovies2.cs" />
-    <Compile Include="Migrations\202011100049067_FixMovies2.Designer.cs">
-      <DependentUpon>202011100049067_FixMovies2.cs</DependentUpon>
+    <Compile Include="Migrations\202011112347222_movieDBFIX2.cs" />
+    <Compile Include="Migrations\202011112347222_movieDBFIX2.Designer.cs">
+      <DependentUpon>202011112347222_movieDBFIX2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -331,20 +315,8 @@
     <EmbeddedResource Include="Migrations\202011092201418_AddNameToMemberShipType.resx">
       <DependentUpon>202011092201418_AddNameToMemberShipType.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011092313421_AddDOBToCustomer.resx">
-      <DependentUpon>202011092313421_AddDOBToCustomer.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011092322448_nullableDateTime.resx">
-      <DependentUpon>202011092322448_nullableDateTime.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011100029265_AddMoviesList.resx">
-      <DependentUpon>202011100029265_AddMoviesList.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011100031250_FixMovieTypo.resx">
-      <DependentUpon>202011100031250_FixMovieTypo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011100049067_FixMovies2.resx">
-      <DependentUpon>202011100049067_FixMovies2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011112347222_movieDBFIX2.resx">
+      <DependentUpon>202011112347222_movieDBFIX2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

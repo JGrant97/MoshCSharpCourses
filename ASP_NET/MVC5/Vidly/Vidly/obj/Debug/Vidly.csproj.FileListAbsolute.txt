@@ -113,8 +113,4 @@ D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\V
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateMembershipTypes.resources
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMemberShipType.resources
-D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDOBToCustomer.resources
-D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.nullableDateTime.resources
-D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMoviesList.resources
-D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixMovieTypo.resources
-D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixMovies2.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.movieDBFIX2.resources
