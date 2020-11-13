@@ -203,12 +203,17 @@
     <Compile Include="Migrations\202011112347222_movieDBFIX2.Designer.cs">
       <DependentUpon>202011112347222_movieDBFIX2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202011132157488_MoviesRequired.cs" />
+    <Compile Include="Migrations\202011132157488_MoviesRequired.Designer.cs">
+      <DependentUpon>202011132157488_MoviesRequired.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
+    <Compile Include="Models\Min18YearsIfAMember.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Models\MovieGenres.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -320,6 +325,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202011112347222_movieDBFIX2.resx">
       <DependentUpon>202011112347222_movieDBFIX2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011132157488_MoviesRequired.resx">
+      <DependentUpon>202011132157488_MoviesRequired.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

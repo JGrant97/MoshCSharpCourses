@@ -10,11 +10,17 @@ namespace Vidly.Models
     public class Movie
     {
         public int Id { get; set; }
+        [Required]
         public string Name { get; set; }
         [Display(Name = "Release Date")]
+        [Required]
         public DateTime ReleaseDate { get; set; }
+
+        [Required]
         public DateTime DateAdded { get; set; }
         [Display(Name = "Number in Stock")]
+        [Required]
+        [Range(1, 20)]
         public int Stock { get; set; }
         [ForeignKey("MovieGenres_Id")]
         public MovieGenres MovieGenres { get; set; }
