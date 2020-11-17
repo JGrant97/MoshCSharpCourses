@@ -115,3 +115,11 @@ D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\V
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.MoviesRequired.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Web.Http.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Web.Http.xml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\AutoMapper.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\AutoMapper.xml
