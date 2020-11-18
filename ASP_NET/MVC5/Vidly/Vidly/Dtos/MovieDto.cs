@@ -25,5 +25,7 @@ namespace Vidly.Dtos
 
         [Required]
         public byte MovieGenres_Id { get; set; }
+
+        public MovieGenresDto movieGenres { get; set; }
     }
 }
