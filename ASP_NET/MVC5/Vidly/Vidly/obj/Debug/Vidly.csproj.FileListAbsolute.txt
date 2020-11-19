@@ -123,3 +123,10 @@ D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\AutoMapper.dll
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\AutoMapper.xml
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.addDrivingLicenseToAppUser.resources
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Glimpse.Ado.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Glimpse.AspNet.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Glimpse.Core.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Glimpse.EF6.dll
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Glimpse.Mvc5.dll

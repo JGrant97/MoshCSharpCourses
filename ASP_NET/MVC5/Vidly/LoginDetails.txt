@@ -1,0 +1,7 @@
+--Manager--
+admin@vidly.com
+@Password123
+
+--Guest--
+guest@vidly.com
+@Password123
