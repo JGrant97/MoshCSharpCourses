@@ -22,6 +22,9 @@ namespace Vidly.Models
         [Required]
         [Range(1, 20)]
         public int Stock { get; set; }
+
+        public int NumberAvailable { get; set; }
+
         [ForeignKey("MovieGenres_Id")]
         public MovieGenres MovieGenres { get; set; }
 
