@@ -132,3 +132,4 @@ D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\V
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\My Documents\GitHub\C#\MoshCSharpCourses\ASP_NET\MVC5\Vidly\Vidly\bin\Elmah.dll
